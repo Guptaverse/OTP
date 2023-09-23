@@ -3,7 +3,7 @@
 
 Here is video demonstration of this project .
 
-![Video](./gifs/AdmitKard.gif)
+![Video](./server/gifs/AdmitKard.gif)
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ This is an OTP (One-Time Password) application built using React.js for the fron
    
 ### Twilio Setup
 
-![Twilio Setup](./gifs/twilio.gif)
+![Twilio Setup](./server/gifs/twilio.gif)
 2. This application uses Twilio to send OTPs to mobile numbers. To use your own Twilio account, follow these steps:
 
    - **Register Your Phone Number**: Since Twilio provides limited free services, you need to register your own phone number to receive OTPs. Here's how:
