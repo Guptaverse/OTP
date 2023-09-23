@@ -6,7 +6,10 @@ Here is video demonstration of this project .
 ![Video](./server/gifs/AdmitKard.gif)
 
 Here is the OTP message recieved on my mobile Phone number registered with Twilio
-![OTP Message](./server/gifs/messageOTP.jpeg)
+![OTP Message]()
+<p align="center">
+  <img src="./server/gifs/messageOTP.jpeg" alt="Alt Text" width="500px" height="700px">
+</p>
 
 
 ## Tech Stack
