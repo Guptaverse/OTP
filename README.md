@@ -5,6 +5,10 @@ Here is video demonstration of this project .
 
 ![Video](./server/gifs/AdmitKard.gif)
 
+Here is the OTP message recieved on my mobile PHone
+![My Image](./server/gifs/messageOTP.png)
+
+
 ## Tech Stack
 
 - **Client-side (Frontend)**: React.js, Antd
