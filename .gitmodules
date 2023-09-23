@@ -1,0 +1,3 @@
+[submodule "client-code"]
+	path = client-code
+	url = https://github.com/Guptaverse/OTP-frontend.git
