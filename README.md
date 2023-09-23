@@ -1,5 +1,7 @@
 # OTP-APP
+[![YouTube Video](https://img.youtube.com/vi/usQgxbcBUEM/0.jpg)](https://www.youtube.com/watch?v=usQgxbcBUEM)
 
+You can watch a video demonstration of this project by clicking the image above.
 ## Tech Stack
 
 - **Client-side (Frontend)**: React.js, Antd
