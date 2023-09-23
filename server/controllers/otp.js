@@ -10,7 +10,7 @@ async function handleGenerateOTP(req,res){
     const generatedOTP =  otpGenerator.generate(6, { lowerCaseAlphabets:false,upperCaseAlphabets: false, specialChars: false });
     const phoneNumber = req.body.number;
     // console.log("ph.no : ",phoneNumber)
-    console.log("hi :)")
+    // console.log("hi :)")
     if(!phoneNumber){
         res.status(400).json({ error: "Phone Number is required" })
     }
